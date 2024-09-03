@@ -1,0 +1,12 @@
+.box3 {
+    background-color: yellow; /* Temporary background color to make it stand out */
+    padding: 20px;
+    border: 1px solid red;
+}
+.section2 {
+    box3 {
+        background-color: yellow; /* Temporary background color to make it stand out */
+        padding: 20px;
+        border: 1px solid red;
+    }
+}
